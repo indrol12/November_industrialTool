@@ -1,3 +1,5 @@
 1.Working Area
 2.Stagging Area
 3.Committed Area
+These all are the logical areas of git
+
